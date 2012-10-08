@@ -1,0 +1,10 @@
+Tim Redferns fork of ofxV8
+=============================================================================================================
+
+I had to change the order of the includes and remove a redundant declaration to make this compile with gcc4.6
+
+See http://forum.openframeworks.cc/index.php/topic,10840.0.html
+
+I updated to the latest (October 2012) version of v8 and linked to the shared library (-lv8)
+
+To compile this in linux, first install v8 from https://developers.google.com/v8/build
