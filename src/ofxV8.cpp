@@ -209,6 +209,7 @@ Object $(string source, string source_name)
 
 Object $$(string path)
 {
+	
 	ofBuffer buffer;
 
 	if (path.substr(0, 7) == "http://")
@@ -217,6 +218,7 @@ Object $$(string path)
 		buffer = ofBufferFromFile(path);
 
 	return $(buffer.getText(), path);
+	
 }
 
 Function $f(string funcname, v8::InvocationCallback function)

@@ -1,10 +1,12 @@
 #pragma once
 
-#include "ofMain.h"
 #include "v8.h"
+#include "ofMain.h"
 
 #include "ofxV8Object.h"
 #include "ofxV8Function.h"
+
+#include <assert.h> //is being undeffed in ofMain.h?
 
 namespace ofxV8
 {

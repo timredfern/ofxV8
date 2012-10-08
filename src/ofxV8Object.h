@@ -2,8 +2,8 @@
 
 #include <tr1/unordered_map>
 
-#include "ofMain.h"
 #include "v8.h"
+#include "ofMain.h"
 
 #include "ofxV8Function.h"
 

@@ -1,0 +1,165 @@
+// !$*UTF8*$!
+{
+	22CD747F161227AC00B485D9 /* ofxV8.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {439, 3107}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 42}";
+		};
+	};
+	22CD7480161227AC00B485D9 /* ofxV8.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 359}}";
+			sepNavSelRange = "{34, 0}";
+			sepNavVisRange = "{0, 316}";
+		};
+	};
+	22CD7491161227AC00B485D9 /* V8example */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = V8example;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	22CD74BD161227CC00B485D9 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	22CD74BE161227CC00B485D9 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	22CD74E2161241F100B485D9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22CD7480161227AC00B485D9 /* ofxV8.h */;
+		name = "ofxV8.h: 4";
+		rLen = 0;
+		rLoc = 34;
+		rType = 0;
+		vrLen = 316;
+		vrLoc = 0;
+	};
+	22CD74E3161241F100B485D9 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Compile /Developer/Library/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp";
+		fRef = 22CD74E4161241F100B485D9 /* ofAppGlutWindow.cpp */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 0;
+		rLoc = 0;
+		rType = 1;
+	};
+	22CD74E4161241F100B485D9 /* ofAppGlutWindow.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = ofAppGlutWindow.cpp;
+		path = /Developer/Library/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 10231}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 650}";
+		};
+	};
+	22CD74E5161241F100B485D9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22CD74E6161241F100B485D9 /* ofAppGlutWindow.cpp */;
+		name = "ofAppGlutWindow.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 650;
+		vrLoc = 0;
+	};
+	22CD74E6161241F100B485D9 /* ofAppGlutWindow.cpp */ = {
+		isa = PBXFileReference;
+		name = ofAppGlutWindow.cpp;
+		path = /Developer/Library/openFrameworks/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp;
+		sourceTree = "<absolute>";
+	};
+	E4B69B4C0A3A1720003C02F2 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 22CD7491161227AC00B485D9 /* V8example */;
+		activeTarget = E4B69B5A0A3A1756003C02F2 /* V8example */;
+		codeSenseManager = 22CD74BE161227CC00B485D9 /* Code sense */;
+		executables = (
+			22CD7491161227AC00B485D9 /* V8example */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					577,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 370288556;
+			PBXWorkspaceStateSaveDate = 370288556;
+		};
+		perUserProjectItems = {
+			22CD74E2161241F100B485D9 /* PBXTextBookmark */ = 22CD74E2161241F100B485D9 /* PBXTextBookmark */;
+			22CD74E3161241F100B485D9 /* XCBuildMessageTextBookmark */ = 22CD74E3161241F100B485D9 /* XCBuildMessageTextBookmark */;
+			22CD74E5161241F100B485D9 /* PBXTextBookmark */ = 22CD74E5161241F100B485D9 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 22CD74BD161227CC00B485D9 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	E4B69B5A0A3A1756003C02F2 /* V8example */ = {
+		activeExec = 0;
+		executables = (
+			22CD7491161227AC00B485D9 /* V8example */,
+		);
+	};
+	E4EB691F138AFCF100A09F29 /* CoreOF.xcconfig */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1762, 455}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2117}";
+			sepNavWindowFrame = "{{15, 4}, {976, 574}}";
+		};
+	};
+}
